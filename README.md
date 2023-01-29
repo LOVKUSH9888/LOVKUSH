@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/lovkush75839173" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/lovkush75839173?logo=twitter&style=for-the-badge" alt="https://twitter.com/lovkush75839173" /></a> </p>
 
-- 🔭 I’m currently working on **MERN PROJECTS**
+- 🔭 I’m currently working on **REACT-JS PROJECTS**
 
 - 🌱 I’m currently learning **MERN**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [NEW TECHS](NEW TECHS)
 
-- 💬 Ask me about **HTML, CSS, JS & REACT**
+- 💬 Ask me about **HTML, CSS, JS & REACT-JS**
 
 - 📫 How to reach me **lovkushyadav9888@gmail.com**
 
