@@ -1,5 +1,5 @@
 # 💫 About Me:
-✅Enthusiastic coder who’s passionate about React-JS. Working to craft accessible, efficient web solutions while continuously learning and growing my skillset.<br>✅FRONTEND DEVELOPMENT + OPEN SOURCE + DATA STRUCTURE & ALGORITHMS<br>✅Passionate about creating awesome web experiences with HTML, CSS, JavaScript, React-Js & Redux. Working to bring beautiful UI designs to life
+✅FRONTEND DEVELOPMENT + OPEN SOURCE + DATA STRUCTURE & ALGORITHMS<br>✅Passionate about creating awesome web experiences with HTML, CSS, JavaScript, React-Js & Redux. Working to bring beautiful UI designs to life<br>Gmail : lovkushyadav9888@gmail.com
 
 
 ## 🌐 Socials:
