@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lovkush9888" alt="lovkush9888" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/lovkush75839173" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/lovkush75839173?logo=twitter&style=for-the-badge" alt="https://twitter.com/lovkush75839173" /></a> </p>
+<p align="left"> <a href="https://linktr.ee/https://linktr.ee/lovkush9888" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/lovkush75839173?logo=twitter&style=for-the-badge" alt="https://twitter.com/lovkush75839173" /></a> </p>
 
 - 🔭 I’m currently working on **REACT-JS PROJECTS**
 
