@@ -1,5 +1,5 @@
 # 💫 About Me:
-✅FRONTEND DEVELOPMENT + OPEN SOURCE + DATA STRUCTURE & ALGORITHMS<br>✅Passionate about creating awesome web experiences with { HTML, CSS, JavaScript, React-Js & Redux }. Working to bring beautiful UI designs to life. Gmail : lovkushyadav9888@gmail.com
+✅FRONTEND DEVELOPMENT + OPEN SOURCE + DATA STRUCTURE & ALGORITHMS<br>✅Passionate about creating awesome web experiences with { HTML, CSS, JavaScript, React-Js & Redux }. Working to bring beautiful UI designs to life. Gmail : lovkushyadav9888@gmail.com  ✔
 
 
 ## 🌐 Socials:
