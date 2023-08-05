@@ -1,5 +1,5 @@
 # 💫 About Me:
-✅FRONTEND DEVELOPMENT + OPEN SOURCE + DATA STRUCTURE & ALGORITHMS<br>✅Passionate about creating awesome web experiences with :- <br> { HTML, CSS -> ( Bootstrap + Tailwind ), JavaScript -> ( DOM + ES6 ), React-Js-> ( Hooks, Forms, Router, Redux ), Next-Js }<br> Working to bring beautiful UI designs to life. Gmail : lovkushyadav9888@gmail.com 
+✅FRONTEND + ▶️BACKEND DEVELOPMENT + OPEN SOURCE + DATA STRUCTURE & ALGORITHMS<br>✅Passionate about creating incredible web experiences with:- <br> { HTML, CSS -> ( Bootstrap + Tailwind ), JavaScript -> ( DOM + ES6 ), React-Js-> ( Hooks, Forms, Router, Redux ) }<br> Working to bring beautiful UI designs to life. Gmail: lovkushyadav9888@gmail.com 
 
 
 ## 🌐 Socials:
