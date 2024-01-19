@@ -1,5 +1,5 @@
 # 💫 About Me:
-✅FRONTEND + ▶️BACKEND DEVELOPMENT + OPEN SOURCE + DATA STRUCTURE & ALGORITHMS<br>✅Passionate about creating incredible web experiences with:- <br> { HTML, CSS -> ( Bootstrap + Tailwind ), JavaScript -> ( DOM + ES6 ), React-Js-> ( Hooks, Forms, Router, Redux ) }<br> Working to bring beautiful UI designs to life. Gmail: lovkushyadav9888@gmail.com 
+✅Hi I am Lovkush. A passionate Full-stack developer (MERN-NextJS). I Have completed my Btech In Computer Science & Build so many minor and major projects. I have also had exp. working as a freelancer with foreign clients. Having Good Knowledge of computer fundamentals + Data Structure & algorithms. Gmail: lovkushyadav9888@gmail.com 
 
 
 ## 🌐 Socials:
